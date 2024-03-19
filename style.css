@@ -73,6 +73,7 @@
 
         .input {
             border: 2px solid black;
+            background-color: white;
             cursor: text;
             padding: 35px;
             margin: 10px;
